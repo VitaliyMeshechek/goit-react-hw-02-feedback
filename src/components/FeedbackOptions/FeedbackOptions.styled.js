@@ -1,13 +1,13 @@
 import styled from 'styled-components';
 
+
+
 export const Container = styled.div
 `display: flex;
 justify-content: center;
 gap: 12px;
 align-items: center;
 `;
-
-
 
  export const Button = styled.button
  `font-weight: 500;
