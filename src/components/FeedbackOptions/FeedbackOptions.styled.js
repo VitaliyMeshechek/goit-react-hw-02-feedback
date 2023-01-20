@@ -7,6 +7,8 @@ gap: 12px;
 align-items: center;
 `;
 
+
+
  export const Button = styled.button
  `font-weight: 500;
  font-size: 22px;
